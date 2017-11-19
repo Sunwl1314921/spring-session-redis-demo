@@ -35,3 +35,5 @@ Default Redis host and port:
 - Restart your server
 - Refresh your browser
 - Keep using your session from where you left it
+
+[帮助链接](http://www.infoq.com/cn/articles/Next-Generation-Session-Management-with-Spring-Session/)
